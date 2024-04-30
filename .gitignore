@@ -1,0 +1,10 @@
+# General
+.DS_Store
+__pycache__/
+
+# Virtual environment
+myenv/
+
+# IDE specific
+.vscode/
+.idea/
